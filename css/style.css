@@ -43,3 +43,32 @@
     color: #fff;
     font-size: 35px;
 }
+
+.main__contenedor-logo {
+    display: none;
+}
+
+.main {
+    margin-top: 140px;
+    padding: 15px 15px 40px;
+}
+
+.main__titulo {
+    font-size: 50px;
+    line-height: 1.2;
+}
+
+.main__titulo span {
+    color: #006241;
+}
+
+.main__parrafo {
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+.main__contenedor-titulo-parrafo {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
